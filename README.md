@@ -19,7 +19,7 @@ Based on https://github.com/gimportexportdevs/gexporter
 
 
 ## Usage
-
+### use this to check gpx file : https://www.fitfileviewer.com/
 ```
 Usage: java -jar gpx2fit-1.0-all.jar [options] [input file|-] [output file|-]
 Options:
