@@ -14,7 +14,6 @@ Based on https://github.com/gimportexportdevs/gexporter
 
 ## Build
 
-- Download and install the Garmin FIT SDK (https://developer.garmin.com/fit/overview/) into folder FitSDKRelease_21.67.00
 - Clone this repo
 - run "gradle build" ==> The resulting file build/libs/gpx2fit-1.0-all.jar is all you need.
 
